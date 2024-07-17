@@ -68,7 +68,7 @@ Thermal transmittance unit
 Vapor permeability unit
 
 ### VOLUMETRICFLOWRATEUNIT
-Valumetric flowrate unit
+Volumetric flowrate unit
 
 ### ROTATIONALFREQUENCYUNIT
 Rotational frequency unit
